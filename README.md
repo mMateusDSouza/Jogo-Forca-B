@@ -13,7 +13,7 @@ Projeto final da primeira fase de ADS
 <!-- Criar uma build e colocar uma porta 8080 para integrar na web -->
 <!-- Testar se esta rodando na web -->
 
-2°
+2°2
 <!-- Criar o jogo -->
 <!-- Testar pra ver se ele roda online -->
 <!-- Acertar as letras com acento para nao dar bug -->
